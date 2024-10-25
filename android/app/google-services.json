@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718097374165",
+    "project_id": "iq-offers",
+    "storage_bucket": "iq-offers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718097374165:android:85bf94461c4c0395f0fb5c",
+        "android_client_info": {
+          "package_name": "com.example.offers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1LWZ1ONzz5rcGmRIFbbyP2JGWqUN78k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718097374165:android:1f5dc5bdb7406aecf0fb5c",
+        "android_client_info": {
+          "package_name": "com.iqlimits.iq_offers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1LWZ1ONzz5rcGmRIFbbyP2JGWqUN78k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
